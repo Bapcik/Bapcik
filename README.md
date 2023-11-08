@@ -9,12 +9,28 @@ I'm Diana, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
  - [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dianamoldabergenova@gmail.com)
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-## 🛠️ Skills
+<details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+  <p>
 
-### Languages
+   ### Languages
 
-![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+   <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+     <img src='https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white' alt='typescript'/>
+   </a>
+   <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+     <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='javascript'/>
+   </a>
+
+  </p>
+</details>
+
+
+
+
+
+
