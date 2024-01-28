@@ -14,6 +14,8 @@ I'm Diana, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 ### Portfolio
 
+- [Список покемонов](https://bapcik.github.io/pokemon_list/) - Приложение со списком покемонов вместе с характеристиками
+- [Список коктейлей с рецептами](https://bapcik.github.io/cocktail_recipes/) - Приложение по поиску коктейлей с рецептами  
 - [Housesale](https://bapcik.github.io/SCSS/) - Верска
 - [XBOX](https://bapcik.github.io/XBOX/) - Верска
 - [Markethink](https://bapcik.github.io/Markethink/) - Верска 
