@@ -30,11 +30,9 @@ I'm Diana, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
   <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='javascript'/>
 </a>
 
-<details>
-  <summary><b>🛠️&nbsp;Tools</b></summary>
-  <br/>
 
-  ### Frontend
+
+ ### 💻 Tech Stack:
 
   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
@@ -43,9 +41,7 @@ I'm Diana, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
   ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-  ### Backend 
-
+  <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
   ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
   ![express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
   ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -60,5 +56,17 @@ I'm Diana, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
   ![premiere-pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 
+### ⚙️ GitHub Analytics
 
-</details>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Bapcik&theme=algolia" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bapcik&theme=algolia&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
