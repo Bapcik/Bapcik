@@ -47,7 +47,7 @@ I'm Diana, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
   ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![typeorm](https://img.shields.io/badge/TypeORM-FF6347?style=for-the-badge&logo=TypeScript&logoColor=white)
 
-  ### Design Tools 
+  ### 🌟 Design Tools 
 
   ![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
   ![corel](https://img.shields.io/badge/Corel-FF7518?style=for-the-badge&logo=corel&logoColor=white)
