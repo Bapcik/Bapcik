@@ -13,7 +13,7 @@ I'm Diana, Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMp
 </p>
 
 ### Portfolio
-
+- [Список украшений](https://jewellery-products-bel9bm182-bapciks-projects.vercel.app/) - Приложение со списком украшений 
 - [Список покемонов](https://bapcik.github.io/pokemon_list/) - Приложение со списком покемонов вместе с характеристиками
 - [Список коктейлей с рецептами](https://bapcik.github.io/cocktail_recipes/) - Приложение по поиску коктейлей с рецептами  
 - [Housesale](https://bapcik.github.io/SCSS/) - Верска
